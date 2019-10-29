@@ -113,7 +113,7 @@ Important:
  - Don't capitalize the first letter.
  - Do not use a dot (.) at the end.
 
-### 5.4 Header Lenght
+### 5.4 Header Length
 
 The header cannot be longer than 100 characters. This allows the message to be easier to read on GitHub as well as in various git tools.
 
